@@ -1,0 +1,1 @@
+a:4:{i:0;s:3:"day";i:1;s:5:"count";s:3:"_pk";s:3:"day";s:5:"_type";a:2:{s:3:"day";s:4:"date";s:5:"count";s:16:"int(10) unsigned";}}

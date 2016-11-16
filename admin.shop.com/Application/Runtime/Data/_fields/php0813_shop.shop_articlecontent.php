@@ -1,0 +1,1 @@
+a:4:{i:0;s:10:"article_id";i:1;s:7:"content";s:3:"_pk";s:10:"article_id";s:5:"_type";a:2:{s:10:"article_id";s:16:"int(10) unsigned";s:7:"content";s:4:"text";}}
